@@ -5,22 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ByteBank
-
-
 {
-    public abstract class Autenticavel : Funcionario
+    public class ParceiroComercial : IAutenticavel
     {
         public string Senha { get; set; }
-        public Autenticavel(double salario, string cpf) : base(salario, cpf)
-        {
-
-        }
-
 
         public bool Autenticar(string senha)
         {
             return Senha == senha;
         }
     }
-
 }

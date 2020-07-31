@@ -18,19 +18,21 @@ namespace ByteBank
             Maria.AumentoDeSalario();
            
 
-            Autenticavel joao=new Gerente(10000,"888.888.888-8");
+            FuncionarioAutenticavel joao=new Gerente(10000,"888.888.888-8");
             joao.Nome = "Joao";
             joao.AumentoDeSalario();
             joao.Senha = "123";
             Sistem.Logar(joao,"123");
-           
 
+            ParceiroComercial parceio = new ParceiroComercial();
+            parceio.Senha="123456";
+            Sistem.Logar(parceio,"123456");
             
-           Autenticavel Jesus = new Diretor(5000,"555.555.555-5");
+            FuncionarioAutenticavel Jesus = new Diretor(5000,"555.555.555-5");
             Jesus.AumentoDeSalario();
             Jesus.Senha = "456";
             Sistem.Logar(Jesus, "456");
-            
+
             Console.WriteLine("Aumento Do Salario Da Maria : "+Maria.Salario);
             Console.WriteLine("Bonificacao da Maria: " +Maria.GetBonificacao());
             Console.WriteLine("Aumento Do Salario Da Maria : " + joao.Salario);
