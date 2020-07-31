@@ -12,6 +12,12 @@ namespace ByteBank
         public string CPF { get; set; }
         public double Salario { get; set; }
 
+        public Funcionario(double salario, string cpf) 
+        {
+            Salario = salario;
+            CPF = cpf;
+        }
+
 
         public abstract void AumentoDeSalario();
         public abstract double GetBonificacao();

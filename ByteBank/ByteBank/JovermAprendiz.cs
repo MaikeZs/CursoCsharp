@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace ByteBank
 {
-  public  class JovermAprendiz:Funcionario
+    public class JovermAprendiz : Funcionario
     {
+        public JovermAprendiz(double salario, string cpf) : base(salario, cpf)
+        {
+        }
+
         public override void AumentoDeSalario()
         {
             Salario *= 1.09;

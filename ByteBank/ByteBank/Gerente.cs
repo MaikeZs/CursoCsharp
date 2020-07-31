@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace ByteBank
 {
-   public class Gerente:Funcionario
+    public class Gerente : Autenticavel
     {
+        public Gerente(double salario, string cpf) : base(salario, cpf)
+        {
+        }
+
         public override void AumentoDeSalario()
         {
             Salario *= 1.13;
