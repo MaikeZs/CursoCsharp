@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\bin\Debug\imposto de renda.exe.config
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\bin\Debug\imposto de renda.exe
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\bin\Debug\imposto de renda.pdb
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\obj\Debug\imposto de renda.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\obj\Debug\imposto de renda.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\obj\Debug\imposto de renda.exe
+C:\Estudo\Mike\AprendendoCsharp\imposto de renda\obj\Debug\imposto de renda.pdb

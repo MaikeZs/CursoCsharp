@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\Beak\bin\Debug\Beak.exe.config
+C:\Estudo\Mike\AprendendoCsharp\Beak\bin\Debug\Beak.exe
+C:\Estudo\Mike\AprendendoCsharp\Beak\bin\Debug\Beak.pdb
+C:\Estudo\Mike\AprendendoCsharp\Beak\obj\Debug\Beak.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\Beak\obj\Debug\Beak.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\Beak\obj\Debug\Beak.exe
+C:\Estudo\Mike\AprendendoCsharp\Beak\obj\Debug\Beak.pdb

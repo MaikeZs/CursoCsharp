@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\bin\Debug\MediasDeNotas.exe.config
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\bin\Debug\MediasDeNotas.exe
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\bin\Debug\MediasDeNotas.pdb
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\obj\Debug\MediasDeNotas.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\obj\Debug\MediasDeNotas.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\obj\Debug\MediasDeNotas.exe
+C:\Estudo\Mike\AprendendoCsharp\MediasDeNotas\obj\Debug\MediasDeNotas.pdb

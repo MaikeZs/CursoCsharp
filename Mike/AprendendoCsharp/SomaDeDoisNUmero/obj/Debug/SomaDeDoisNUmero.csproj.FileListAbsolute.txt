@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\bin\Debug\SomaDeDoisNUmero.exe.config
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\bin\Debug\SomaDeDoisNUmero.exe
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\bin\Debug\SomaDeDoisNUmero.pdb
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\obj\Debug\SomaDeDoisNUmero.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\obj\Debug\SomaDeDoisNUmero.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\obj\Debug\SomaDeDoisNUmero.exe
+C:\Estudo\Mike\AprendendoCsharp\SomaDeDoisNUmero\obj\Debug\SomaDeDoisNUmero.pdb

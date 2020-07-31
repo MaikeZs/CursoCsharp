@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\bin\Debug\Sexto TestaCondicional2.exe.config
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\bin\Debug\Sexto TestaCondicional2.exe
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\bin\Debug\Sexto TestaCondicional2.pdb
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\obj\Debug\Sexto TestaCondicional2.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\obj\Debug\Sexto TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\obj\Debug\Sexto TestaCondicional2.exe
+C:\Estudo\Mike\AprendendoCsharp\Sexto TestaCondicional2\obj\Debug\Sexto TestaCondicional2.pdb

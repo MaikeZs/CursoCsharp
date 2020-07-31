@@ -1,0 +1,6 @@
+C:\Estudo\Mike\AprendendoCsharp\Terceiro\bin\Debug\Terceiro.exe.config
+C:\Estudo\Mike\AprendendoCsharp\Terceiro\bin\Debug\Terceiro.exe
+C:\Estudo\Mike\AprendendoCsharp\Terceiro\bin\Debug\Terceiro.pdb
+C:\Estudo\Mike\AprendendoCsharp\Terceiro\obj\Debug\Terceiro.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\Terceiro\obj\Debug\Terceiro.exe
+C:\Estudo\Mike\AprendendoCsharp\Terceiro\obj\Debug\Terceiro.pdb

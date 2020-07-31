@@ -1,0 +1,6 @@
+C:\Estudo\Mike\AprendendoCsharp\For 2\bin\Debug\For 2.exe.config
+C:\Estudo\Mike\AprendendoCsharp\For 2\bin\Debug\For 2.exe
+C:\Estudo\Mike\AprendendoCsharp\For 2\bin\Debug\For 2.pdb
+C:\Estudo\Mike\AprendendoCsharp\For 2\obj\Debug\For 2.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\For 2\obj\Debug\For 2.exe
+C:\Estudo\Mike\AprendendoCsharp\For 2\obj\Debug\For 2.pdb

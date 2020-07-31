@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\while\bin\Debug\@while.exe.config
+C:\Estudo\Mike\AprendendoCsharp\while\bin\Debug\@while.exe
+C:\Estudo\Mike\AprendendoCsharp\while\bin\Debug\@while.pdb
+C:\Estudo\Mike\AprendendoCsharp\while\obj\Debug\while.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\while\obj\Debug\@while.exe
+C:\Estudo\Mike\AprendendoCsharp\while\obj\Debug\@while.pdb

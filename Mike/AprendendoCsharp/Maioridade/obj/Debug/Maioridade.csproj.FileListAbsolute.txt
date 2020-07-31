@@ -1,0 +1,7 @@
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\bin\Debug\Maioridade.exe.config
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\bin\Debug\Maioridade.exe
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\bin\Debug\Maioridade.pdb
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\obj\Debug\Maioridade.csprojAssemblyReference.cache
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\obj\Debug\Maioridade.csproj.CoreCompileInputs.cache
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\obj\Debug\Maioridade.exe
+C:\Estudo\Mike\AprendendoCsharp\Maioridade\obj\Debug\Maioridade.pdb
