@@ -1,0 +1,10 @@
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\bin\Debug\Cobrinha.exe.config
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\bin\Debug\Cobrinha.exe
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\bin\Debug\Cobrinha.pdb
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.csprojAssemblyReference.cache
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.Properties.Resources.resources
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.csproj.GenerateResource.cache
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.csproj.CoreCompileInputs.cache
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.exe
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.pdb
+C:\Estudo\CursoCsharp\ByteBank\Cobrinha\obj\Debug\Cobrinha.formulario.resources
